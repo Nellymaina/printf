@@ -97,5 +97,5 @@ These are all the tasks of this project, the ones that are completed link to the
 ### [16. * ]
 * All the above options work well together.
 
-This is a group project by Nellymaina and Collins Manase
+This is a group project by Nelly Maina and Collins Manase
 ---
